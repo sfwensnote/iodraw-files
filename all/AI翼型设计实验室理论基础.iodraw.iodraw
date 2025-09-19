@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="aGV23Kf1lUxZcxFqPbme">
-    <mxGraphModel dx="845" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="innug_7apGHkY_M-ZL4s-1" value="XFOIL仿真系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-3" value="AI模块&lt;div&gt;概念学习&lt;/div&gt;&lt;div&gt;模型迭代&lt;/div&gt;&lt;div&gt;策略回顾&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="307.5" width="120" height="85" as="geometry" />

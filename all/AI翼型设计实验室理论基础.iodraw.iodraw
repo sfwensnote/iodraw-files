@@ -7,8 +7,8 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-1" value="XFOIL仿真系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="285" width="120" height="130" as="geometry" />
+        <mxCell id="innug_7apGHkY_M-ZL4s-3" value="AI模块&lt;div&gt;概念学习&lt;/div&gt;&lt;div&gt;模型迭代&lt;/div&gt;&lt;div&gt;策略回顾&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="104" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

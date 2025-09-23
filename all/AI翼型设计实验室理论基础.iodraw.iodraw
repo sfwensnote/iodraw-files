@@ -28,10 +28,10 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-12" value="概念学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-14" value="GAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="innug_7apGHkY_M-ZL4s-14" value="模型迭代" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-15" value="GAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="innug_7apGHkY_M-ZL4s-15" value="策略回顾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>

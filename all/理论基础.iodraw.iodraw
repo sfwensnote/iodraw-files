@@ -87,14 +87,14 @@
         </mxCell>
         <mxCell id="pE4_4d-cSEg-BleYg2v3-32" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="360" as="sourcePoint" />
-            <mxPoint x="550" y="340" as="targetPoint" />
+            <mxPoint x="510" y="360" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pE4_4d-cSEg-BleYg2v3-33" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="549.9200000000001" y="370.12" as="sourcePoint" />
-            <mxPoint x="520" y="390" as="targetPoint" />
+            <mxPoint x="539.9200000000001" y="370.12" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

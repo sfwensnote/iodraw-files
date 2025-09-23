@@ -127,7 +127,7 @@
         <mxCell id="pE4_4d-cSEg-BleYg2v3-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;结果评估&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pE4_4d-cSEg-BleYg2v3-42" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;主流程（中层：基于模型的探究(MBI）&lt;span style=&quot;background-color: white; color: rgb(51, 51, 51);&quot;&gt;×Toulmin论证模型&lt;/span&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0cm 0cm 8pt; line-height: 16.8667px; font-size: 11pt; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pE4_4d-cSEg-BleYg2v3-42" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;主流程（中层：基于模型的探究(MBI）&lt;span style=&quot;background-color: white; color: rgb(51, 51, 51);&quot;&gt;×Toulmin论证模型）&lt;/span&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0cm 0cm 8pt; line-height: 16.8667px; font-size: 11pt; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="630" height="30" as="geometry" />
         </mxCell>
       </root>

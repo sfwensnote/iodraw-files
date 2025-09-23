@@ -90,14 +90,14 @@
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-47" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;entryX=0.176;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="505.04" y="440" as="sourcePoint" />
+            <mxPoint x="505.03999999999996" y="440" as="sourcePoint" />
             <mxPoint x="534.96" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-53" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="534.96" y="450.12" as="sourcePoint" />
-            <mxPoint x="505.04" y="450.12260869565216" as="targetPoint" />
+            <mxPoint x="505.03999999999996" y="450.12260869565216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-54" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;entryX=0.176;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1">

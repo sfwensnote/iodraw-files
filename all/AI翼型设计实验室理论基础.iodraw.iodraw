@@ -157,6 +157,9 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-71" value="KBC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="innug_7apGHkY_M-ZL4s-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="665" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

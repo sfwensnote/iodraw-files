@@ -259,7 +259,7 @@
             <mxPoint x="695" y="930.1226086956522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-101" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="innug_7apGHkY_M-ZL4s-101" value="MBI（给予模型的探究过程）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="795" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

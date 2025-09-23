@@ -64,6 +64,9 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-34" value="知识建构共同体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="innug_7apGHkY_M-ZL4s-37" value="GAI支持的仿真平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

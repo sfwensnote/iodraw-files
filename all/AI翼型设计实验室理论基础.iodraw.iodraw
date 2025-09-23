@@ -124,7 +124,7 @@
             <mxPoint x="500.00000000000006" y="440.12260869565216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-64" value="GAI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="innug_7apGHkY_M-ZL4s-64" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;GAI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="585" width="80" height="40" as="geometry" />
         </mxCell>
       </root>

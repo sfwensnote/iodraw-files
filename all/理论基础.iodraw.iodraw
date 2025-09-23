@@ -46,7 +46,7 @@
             <mxPoint x="201.00000000000006" y="185.12260869565216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pE4_4d-cSEg-BleYg2v3-14" value="CK空间：C" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pE4_4d-cSEg-BleYg2v3-14" value="CK空间：概念（C）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="120" height="30" as="geometry" />
         </mxCell>
       </root>

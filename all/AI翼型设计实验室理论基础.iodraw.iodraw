@@ -13,7 +13,7 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-9" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="innug_7apGHkY_M-ZL4s-10" target="innug_7apGHkY_M-ZL4s-9">
+        <mxCell id="innug_7apGHkY_M-ZL4s-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=openAsync;endFill=0;" edge="1" parent="1" source="innug_7apGHkY_M-ZL4s-10" target="innug_7apGHkY_M-ZL4s-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-10" value="仿真系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

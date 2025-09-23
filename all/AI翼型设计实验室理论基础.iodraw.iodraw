@@ -185,10 +185,7 @@
           <mxGeometry x="140" y="960" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-80" value="问题提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515.0000000000001" y="840" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-81" value="问题提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500.0000000000001" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="520.0000000000001" y="840" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

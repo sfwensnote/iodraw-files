@@ -10,6 +10,9 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=openAsync;endFill=0;" edge="1" parent="1" source="innug_7apGHkY_M-ZL4s-9" target="innug_7apGHkY_M-ZL4s-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="innug_7apGHkY_M-ZL4s-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="innug_7apGHkY_M-ZL4s-9" target="innug_7apGHkY_M-ZL4s-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-9" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
         </mxCell>

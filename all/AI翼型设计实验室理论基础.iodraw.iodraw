@@ -232,8 +232,20 @@
             <mxPoint x="827" y="939.5499999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-94" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="innug_7apGHkY_M-ZL4s-94" value="运行机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="innug_7apGHkY_M-ZL4s-95" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;entryX=0.176;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="910" as="sourcePoint" />
+            <mxPoint x="584.9200000000001" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="innug_7apGHkY_M-ZL4s-96" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584.9200000000001" y="920.12" as="sourcePoint" />
+            <mxPoint x="555" y="920.1226086956522" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

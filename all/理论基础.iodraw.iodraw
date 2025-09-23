@@ -142,8 +142,8 @@
         <mxCell id="pE4_4d-cSEg-BleYg2v3-47" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;策略回顾（模型反思/信息整合）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="440" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pE4_4d-cSEg-BleYg2v3-48" value="GAI角色（底层支撑，）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="pE4_4d-cSEg-BleYg2v3-48" value="GAI角色（底层支撑，贯穿全过程）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

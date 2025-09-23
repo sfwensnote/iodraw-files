@@ -80,7 +80,7 @@
           <mxGeometry x="420" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pE4_4d-cSEg-BleYg2v3-27" value="论断（Claim）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="360" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

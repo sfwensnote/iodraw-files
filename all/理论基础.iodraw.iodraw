@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="az-d2jUTDwQJsB-b1Mmk">
-    <mxGraphModel dx="516" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="641" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="pE4_4d-cSEg-BleYg2v3-15" value="知识建构共同体（KBC）/CK空间（顶层范式）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="960" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pE4_4d-cSEg-BleYg2v3-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

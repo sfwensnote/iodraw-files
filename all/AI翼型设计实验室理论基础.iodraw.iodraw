@@ -185,13 +185,13 @@
           <mxGeometry x="140" y="960" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-80" value="模型设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570.0000000000001" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="530.0000000000001" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-82" value="模型检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710.0000000000001" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="670.0000000000001" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-83" value="策略回顾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640.0000000000001" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="600.0000000000001" y="920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="innug_7apGHkY_M-ZL4s-84" value="问题提出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840.0000000000001" y="920" width="80" height="40" as="geometry" />
@@ -205,8 +205,8 @@
             <mxPoint x="990" y="939.5699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="830" width="240" height="140" as="geometry" />
+        <mxCell id="innug_7apGHkY_M-ZL4s-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="840" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -58,8 +58,8 @@
         <mxCell id="innug_7apGHkY_M-ZL4s-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="380" y="90" width="350" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="innug_7apGHkY_M-ZL4s-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="innug_7apGHkY_M-ZL4s-34" value="知识建构共同体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -49,7 +49,7 @@
         <mxCell id="pE4_4d-cSEg-BleYg2v3-14" value="CK空间：概念（C）概念（K）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pE4_4d-cSEg-BleYg2v3-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pE4_4d-cSEg-BleYg2v3-15" value="KBC" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

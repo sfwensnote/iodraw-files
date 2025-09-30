@@ -112,6 +112,9 @@
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-41" value="概念空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-45" value="概念空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -98,7 +98,7 @@
           <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="140" width="280" height="230" as="geometry" />
+          <mxGeometry x="150" y="120" width="280" height="250" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.606;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.608;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WaAMOh1vuVMCJFK3Bsnu-35" target="WaAMOh1vuVMCJFK3Bsnu-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-41" value="概念空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

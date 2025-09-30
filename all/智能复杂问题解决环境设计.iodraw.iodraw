@@ -112,7 +112,10 @@
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-41" value="概念空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-45" value="概念空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WaAMOh1vuVMCJFK3Bsnu-45" target="WaAMOh1vuVMCJFK3Bsnu-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-45" value="知识空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

@@ -107,12 +107,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-41" value="概念空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WaAMOh1vuVMCJFK3Bsnu-45" target="WaAMOh1vuVMCJFK3Bsnu-41">
+        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="WaAMOh1vuVMCJFK3Bsnu-45" target="WaAMOh1vuVMCJFK3Bsnu-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-45" value="知识空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

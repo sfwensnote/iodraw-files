@@ -26,18 +26,16 @@
           <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="WaAMOh1vuVMCJFK3Bsnu-10" target="WaAMOh1vuVMCJFK3Bsnu-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="330" />
-              <mxPoint x="600" y="330" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-10" value="仿&lt;br&gt;真&lt;br&gt;学&lt;br&gt;习&lt;br&gt;系&lt;br&gt;统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-11" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaAMOh1vuVMCJFK3Bsnu-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-4" value="概念学习" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="80" height="20" as="geometry" />
+          <mxGeometry x="200" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WaAMOh1vuVMCJFK3Bsnu-5" value="模型迭代" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="250" width="80" height="20" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="320" y="160" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-2" value="概念拆解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="80" height="20" as="geometry" />
+          <mxGeometry x="320" y="110" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-3" value="引发反思" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="80" height="20" as="geometry" />

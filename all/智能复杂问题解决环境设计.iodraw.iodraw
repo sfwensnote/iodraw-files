@@ -257,7 +257,7 @@
         <mxCell id="uYtL82KHr6EWs7u0FEJn-73" value="启发提问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="910" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uYtL82KHr6EWs7u0FEJn-74" value="概念拆解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uYtL82KHr6EWs7u0FEJn-74" value="数据传递" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="880" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-75" value="引发反思" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

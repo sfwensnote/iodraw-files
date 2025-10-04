@@ -217,13 +217,13 @@
           <mxGeometry x="800" y="640" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-54" value="反思促进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="720" width="80" height="20" as="geometry" />
+          <mxGeometry x="880" y="740" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-55" value="优劣诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="690" width="80" height="20" as="geometry" />
+          <mxGeometry x="880" y="710" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-56" value="行动建议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="750" width="80" height="20" as="geometry" />
+          <mxGeometry x="880" y="770" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="700" width="100" height="100" as="geometry" />
@@ -232,7 +232,7 @@
           <mxGeometry x="790" y="570" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="710" width="100" height="100" as="geometry" />
+          <mxGeometry x="870" y="700" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

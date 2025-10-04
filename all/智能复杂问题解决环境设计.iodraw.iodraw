@@ -272,6 +272,9 @@
         <mxCell id="uYtL82KHr6EWs7u0FEJn-78" value="模型迭代" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="700" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="uYtL82KHr6EWs7u0FEJn-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uYtL82KHr6EWs7u0FEJn-79" target="uYtL82KHr6EWs7u0FEJn-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-79" value="模型迭代" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="700" width="80" height="20" as="geometry" />
         </mxCell>

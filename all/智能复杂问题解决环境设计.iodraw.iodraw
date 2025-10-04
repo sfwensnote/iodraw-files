@@ -287,6 +287,9 @@
         <mxCell id="uYtL82KHr6EWs7u0FEJn-87" value="模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="728" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uYtL82KHr6EWs7u0FEJn-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="690" width="215" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

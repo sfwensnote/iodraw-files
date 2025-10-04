@@ -245,8 +245,8 @@
             <mxPoint x="400" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uYtL82KHr6EWs7u0FEJn-69" value="知识空间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="90" height="30" as="geometry" />
+        <mxCell id="uYtL82KHr6EWs7u0FEJn-69" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;知识空间&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

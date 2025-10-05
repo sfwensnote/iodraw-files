@@ -312,14 +312,11 @@
         <mxCell id="uYtL82KHr6EWs7u0FEJn-92" value="设计工程问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="720" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uYtL82KHr6EWs7u0FEJn-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uYtL82KHr6EWs7u0FEJn-93" target="uYtL82KHr6EWs7u0FEJn-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-93" value="确定学习方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="780" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uYtL82KHr6EWs7u0FEJn-99" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="710" width="100" height="100" as="geometry" />
+        <mxCell id="uYtL82KHr6EWs7u0FEJn-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="720" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

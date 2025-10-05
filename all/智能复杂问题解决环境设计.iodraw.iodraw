@@ -297,16 +297,16 @@
           <mxGeometry x="400" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-91" value="启发提问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="970" width="80" height="20" as="geometry" />
+          <mxGeometry x="325" y="750" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-92" value="概念拆解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="940" width="80" height="20" as="geometry" />
+          <mxGeometry x="325" y="720" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-93" value="引发反思" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="1000" width="80" height="20" as="geometry" />
+          <mxGeometry x="325" y="780" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uYtL82KHr6EWs7u0FEJn-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="930" width="100" height="100" as="geometry" />
+          <mxGeometry x="315" y="710" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
